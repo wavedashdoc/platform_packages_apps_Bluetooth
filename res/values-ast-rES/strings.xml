@@ -36,6 +36,7 @@
   <!-- string for "the title of airplane mode error" -->
   <string name="airplane_error_title">Mou avión</string>
   <!-- string for "error message in airplane mode" -->
+  <string name="airplane_error_msg">Nun pues usar el Bluetooth nel mou avión.</string>
   <!-- Activate Bluetooth Confirmation Dialog -->
   <!--Title -->
   <!--Line 1 -->
@@ -43,6 +44,7 @@
   <!-- Label for a cancel button. -->
   <string name="bt_enable_cancel">Encaboxar</string>
   <!-- Label for a confirm button.-->
+  <string name="bt_enable_ok">Activar</string>
   <!-- Bluetooth File Transfer Acceptance Dialog -->
   <!--Title -->
   <string name="incoming_file_confirm_title">Tresferencia de ficheros</string>
@@ -83,6 +85,7 @@
   <string name="incoming_line3">Tamañu</string>
   <!-- Bluetooth failed Download  Dialog -->
   <!--Line 1  -->
+  <string name="download_fail_line1">Nun se recibió\'l ficheru</string>
   <!--Line 2  -->
   <!--Line 3  -->
   <!-- Label for ok button.-->
@@ -110,6 +113,7 @@
   <!-- Bluetooth OPP Live Folder -->
   <!-- Bluetooth OPP Transfer History -->
   <!-- Do not translate. file name used for sharing. -->
+  <string name="bluetooth_share_file_name" translate="false">bluetooth_content_share</string>
   <!-- Used to run Bluetooth.apk in another process if needed -->
   <!-- Do not translate. android:sharedUserId string of this application. -->
   <!-- Do not translate. android:process of this application. -->
